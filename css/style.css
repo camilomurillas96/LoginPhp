@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #41a0e2 !important;
+    
+}
+
+.fondo{
+    width: 1270px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.log{
+    padding: 10px;
+    margin-left: 330px;
+    
+}
+
+.inp input{
+    width: 50%;
+}
+
+.log .btn{
+    margin-left: 290px;
+}
